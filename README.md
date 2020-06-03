@@ -9,4 +9,5 @@ This is the first revision of the Portfolio website.
 <img src="screenshot.png"
      alt="Screenshot"
      style="float: left; margin-right: 10px;" />
+     
 © 2020 Jordan Bunnell.
