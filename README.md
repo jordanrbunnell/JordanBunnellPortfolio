@@ -4,7 +4,7 @@ As the class continues, and my developent skills grow, I've now updated my portf
 
 ## Live Link
 
-<a href="https://jordanrbunnell.github.io/JordanBunnellPortfolio/">Portfolio Page</a>
+<a href="https://jordanrbunnell.github.io/JordanBunnellPortfolio/portfolio.html">Portfolio Page</a>
 
 ## Pages
 
