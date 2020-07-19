@@ -1,7 +1,10 @@
 # Main Portfolio Web Page
 
-This is the first revision of the Portfolio website.  
+As the class continues, and my developent skills grow, I've now updated my portfolio to showcase some of the more interesting and challenging projects I've been workign on. Please click through and enjoy the work that's been accomplished so far!  
 
+## Live Link
+
+<a href="https://jordanrbunnell.github.io/JordanBunnellPortfolio/">Portfolio Page</a>
 
 ## Pages
 
